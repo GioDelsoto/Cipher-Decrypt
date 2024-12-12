@@ -1,0 +1,54 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.json
+*.xls
+*.xlsx
+*.h5
+*.parquet
+*.db
+*.sqlite
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets and configuration
+.env
+*.key
+*.pem
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Miscellaneous
+*.bak
+*.swp
